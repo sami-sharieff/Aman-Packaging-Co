@@ -36,6 +36,17 @@ p{
   width: 70%;
 }
 
+@media (max-width: 1028px) {
+
+  .big-heading {
+    text-align: center;
+  }
+
+  .home-image {
+    width: 50%;
+  }
+}
+
 /* navbar */
 
 .navbar {
